@@ -10,10 +10,11 @@ Key findings reveal that Battery Electric Vehicles (BEVs) dominate the market, w
 The dataset also presents limitations, including a large proportion of vehicles with unknown CAFV eligibility, which constrains deeper policy-related analysis. Despite this, the EDA provides a structured and insightful overview of the evolving EV landscape.
 
 
-------
+
 
 **Interactive Dashboard (Power BI)**
 
+------
 
 The Power BI dashboard translates the EDA findings into an interactive and visually engaging format, enabling users to quickly explore key trends and patterns in EV adoption.
 
